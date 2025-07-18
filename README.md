@@ -30,5 +30,5 @@ VITE_API_KEY=your_api_key_here
 ##สมัคร API ฟรีที่: https://openweathermap.org/api
 
 ## รันโปรเจกต์
-ืnpm install 
+npm install 
 npm run dev
